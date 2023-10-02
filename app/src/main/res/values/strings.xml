@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Prak1</string>
+    <string name="name">Ika Tania</string>
+    <string name="no">085389155752</string>
+    <string name="button">Kirim</string>
+    <string name="submit">Submit</string>
+    <string name="judul">Barbie and the Diamond Castle</string>
+    <string name="nm">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address:</string>
+    <string name="entername">Enter Your Name</string>
+    <string name="enterphone">Enter Your Phone Number</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="match">Match Parent</string>
+    <string name="Right">Right</string>
+    <string name="Left">Left</string>
+    <string name="select">Select Your Film</string>
+    <string name="prev">&lt;</string>
+    <string name="next">&gt;</string>
+</resources>
