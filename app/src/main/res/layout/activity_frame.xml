@@ -25,6 +25,16 @@
         android:textSize="25dp"
         android:textStyle="bold" />
 
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center|left"
+        android:layout_marginLeft="20dp"
+        android:padding="7dp"
+        android:background="@color/pink"
+        app:srcCompat="@drawable/img_iconleft" />
+
     <Button
         android:id="@+id/button"
         android:layout_width="136dp"
